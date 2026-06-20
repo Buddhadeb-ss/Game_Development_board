@@ -12,7 +12,7 @@ The custom PCB integrates all required hardware components into a compact form f
 
 ---
 
-![Front Render](exports/Game_esp32_front.png)
+[![Front Render](exports/Game_esp32_front.png)](https://github.com/Buddhadeb-ss/Game_Development_board/blob/main/exports/Game_esp32_front.png)
 
 ## Objectives
 
