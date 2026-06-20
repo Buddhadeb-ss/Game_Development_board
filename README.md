@@ -62,6 +62,8 @@ This process repeats continuously, creating a responsive interactive gaming expe
 
 ---
 
+https://github.com/Buddhadeb-ss/Game_Development_board/blob/main/exports/Game_esp32_back.png
+
 ## System Flow
 
 Power ON
