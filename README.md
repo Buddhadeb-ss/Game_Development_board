@@ -12,6 +12,8 @@ The custom PCB integrates all required hardware components into a compact form f
 
 ---
 
+exports/Game_esp32_front.png
+
 ## Objectives
 
 * Design a custom PCB using KiCad.
