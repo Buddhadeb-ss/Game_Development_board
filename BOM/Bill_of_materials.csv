@@ -1,10 +1,9 @@
-| Item                           | Quantity    | Description                         |
-| ------------------------------ | ----------- | ----------------------------------- |
-| Arduino Nano ESP32             | 1           | Main microcontroller board          |
-| 0.96" OLED Display (I2C)       | 1           | Display module (SSD1306 compatible) |
-| Tactile Push Button 6x6 mm     | 5           | Direction and action controls       |
-| Custom PCB                     | 1           | Designed in KiCad                   |
-| Male Header Pins (optional)    | 1 set       | For mounting Nano ESP32 and OLED    |
-| USB-C Cable                    | 1           | Programming and power supply        |
-| Mounting Holes (M3)            | 4           | PCB mounting support                |
-| Jumper Wires (prototype stage) | As required | Testing and development             |
+Item No,Component,Quantity,Description
+1,Arduino Nano ESP32,1,Main microcontroller board
+2,0.96 inch OLED Display SSD1306 I2C,1,128x64 OLED display module
+3,Tactile Push Button 6x6 mm,5,User input buttons for Up Down Left Right and Action
+4,Custom PCB,1,KiCad designed PCB
+5,Male Header 1x15,2,Headers for Arduino Nano ESP32 mounting
+6,Male Header 1x4,1,Header for OLED display connection
+7,Mounting Hole M3,4,PCB mounting holes for enclosure
+8,USB-C Cable,1,Programming and power supply
